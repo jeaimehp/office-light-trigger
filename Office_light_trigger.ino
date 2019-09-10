@@ -1,17 +1,17 @@
-*/
-By: Je'aime Powell 
-Rev 1 - 9/10/19
-
-Office Light Trigger
-
-Activates servo to wave arm to turn back on the motion
-controlled light
-
-Pin Connections
-D13 - Intel Galileo LED Pin
-D9 - Servo
-A1 - Photoresistor
-*/
+///////////////////////////////////////////////////////
+// By: Je'aime Powell 
+// Rev 1 - 9/10/19
+//
+// Office Light Trigger
+//
+// Activates servo to wave arm to turn back on the motion
+// controlled light
+//
+// Pin Connections:
+// D13 - Intel Galileo LED Pin
+// D9 - Servo
+// A1 - Photoresistor
+///////////////////////////////////////////////////////
 
 #include <Servo.h>
 Servo servo1;
