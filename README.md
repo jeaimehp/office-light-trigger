@@ -1,7 +1,7 @@
 # office-light-trigger
 Code tested on Intel Galileo, with servo, and photoresistor
 
-///////////////////////////////////////////////////////
+```///////////////////////////////////////////////////////
 // By: Je'aime Powell 
 // Rev 1 - 9/10/19
 //
@@ -14,6 +14,8 @@ Code tested on Intel Galileo, with servo, and photoresistor
 // D13 - Intel Galileo LED Pin
 // D9 - Servo
 // A1 - Photoresistor
-///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////```
+
+![alt text](https://github.com/jeaimehp/office-light-trigger/blob/master/IMG_4973.jpg "Image of setup on desk in office")
 
 
