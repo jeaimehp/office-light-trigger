@@ -16,6 +16,6 @@ Code tested on Intel Galileo, with servo, and photoresistor
 // A1 - Photoresistor
 ///////////////////////////////////////////////////////```
 
-![alt text](IMG_4973.jpg)
+![Working Picture](IMG_4973.jpg "Working on Desk")
 
 
