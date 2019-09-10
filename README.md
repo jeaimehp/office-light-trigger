@@ -14,7 +14,8 @@ Code tested on Intel Galileo, with servo, and photoresistor
 // D13 - Intel Galileo LED Pin
 // D9 - Servo
 // A1 - Photoresistor
-///////////////////////////////////////////////////////```
+///////////////////////////////////////////////////////
+```
 
 ![Working Picture](IMG_4973.jpg "Working on Desk")
 
