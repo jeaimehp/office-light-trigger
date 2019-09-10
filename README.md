@@ -1,8 +1,10 @@
 # office-light-trigger
 Code tested on Intel Galileo, with servo, and photoresistor
 
-For the connector from the servo to the lego bean printed and used "Lego Servo Adapter" from greengiant83 on Thingiverse
+For the connector from the servo to the lego beam printed and used "Lego Servo Adapter" from greengiant83 on Thingiverse
 https://www.thingiverse.com/thing:151306
+
+[Servo to Beam!](https://cdn.thingiverse.com/renders/e0/be/ca/80/d0/Lego_Servo_Arm_preview_tiny.jpg "Servo to Beam connector")
 
 Also added the files used to get the Galileo going.
 
