@@ -16,6 +16,6 @@ Code tested on Intel Galileo, with servo, and photoresistor
 // A1 - Photoresistor
 ///////////////////////////////////////////////////////```
 
-![alt text](https://github.com/jeaimehp/office-light-trigger/blob/master/IMG_4973.jpg)
+![alt text](IMG_4973.jpg)
 
 
